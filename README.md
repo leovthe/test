@@ -3,3 +3,9 @@
 This is my Git practice project.
 
 I am learning Git branches and GitHub.
+
+
+## Features
+
+- User registration
+- User login
